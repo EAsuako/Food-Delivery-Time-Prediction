@@ -1,6 +1,7 @@
 # Food-Delivery-Time-Prediction
 
 <img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/e3e79797-cf2c-45b1-ac8f-cb090206048a" />
+
 ## Project Overview
 
 This project explores a food delivery dataset to understand the factors affecting delivery performance. The analysis focuses on data cleaning, exploratory data analysis (EDA), descriptive statistics, pivot tables, and data visualization to identify patterns and generate business insights.
